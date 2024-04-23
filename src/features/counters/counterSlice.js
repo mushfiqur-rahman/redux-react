@@ -19,7 +19,7 @@ const counterSlice = createSlice({
       const counterIndex = state.findIndex((c) => c.id === action.payload);
       state[counterIndex].value++;
     },
-    dencrement: (state, action) => {
+    decrement: (state, action) => {
       const counterIndex = state.findIndex((c) => c.id === action.payload);
       state[counterIndex].value--;
     },
