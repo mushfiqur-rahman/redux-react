@@ -42,7 +42,9 @@ src/
 ┣ index.css
 ┗ main.jsx
 ```
+- Final Look:
+![image](https://github.com/mushfiqur-rahman/redux-react/assets/26889268/b65671b8-d968-4970-baf6-007edf75471c)
 
-### Better Inspection
 
-use this extension [<img src="    https://avatars.githubusercontent.com/u/13142323?s=200&v=4"/>](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
+
