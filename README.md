@@ -30,11 +30,19 @@ src/
 ┃ ┣ Button.jsx
 ┃ ┣ Count.jsx
 ┃ ┣ Counter.jsx
+┃ ┣ Posts.jsx
 ┃ ┗ Stats.jsx
 ┣ features/
-┃ ┗ counters/
-┃ ┗ counterSlice.js
+┃ ┣ counters/
+┃ ┃ ┗ counterSlice.js
+┃ ┗ posts/
+┃   ┣ postsAPI.js
+┃   ┗ postSlice.js
 ┣ App.jsx
 ┣ index.css
 ┗ main.jsx
 ```
+
+### Better Inspection
+
+use this extension [<img src="    https://avatars.githubusercontent.com/u/13142323?s=200&v=4"/>](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
