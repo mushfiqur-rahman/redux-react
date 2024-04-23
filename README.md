@@ -19,3 +19,22 @@ $ npm install && npm run dev
 ```url
 http://localhost:5173/
 ```
+
+## Folder Structure
+
+```
+src/
+┣ app/
+┃ ┗ store.js
+┣ components/
+┃ ┣ Button.jsx
+┃ ┣ Count.jsx
+┃ ┣ Counter.jsx
+┃ ┗ Stats.jsx
+┣ features/
+┃ ┗ counters/
+┃ ┗ counterSlice.js
+┣ App.jsx
+┣ index.css
+┗ main.jsx
+```
