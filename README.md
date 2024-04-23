@@ -43,7 +43,8 @@ src/
 ┗ main.jsx
 ```
 - Final Look:
-![image](https://github.com/mushfiqur-rahman/redux-react/assets/26889268/b65671b8-d968-4970-baf6-007edf75471c)
+![image](https://github.com/mushfiqur-rahman/redux-react/assets/26889268/d7f83fbe-57f2-4b9d-a518-4ebe0cb6a7cd)
+
 
 
 
