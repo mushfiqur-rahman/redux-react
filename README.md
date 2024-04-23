@@ -1,8 +1,21 @@
-# React + Vite
+# React + Vite + Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### I am trying to learn basic of Redux from YouTube Video [React Redux Crash Course Bangla with Redux Toolkit](https://www.youtube.com/watch?v=qhll3DXuLHI)
 
-Currently, two official plugins are available:
+- Project Clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash script
+$ git clone  https://github.com/mushfiqur-rahman/redux-react.git
+```
+
+- Package Install & Run the Project
+
+```bash script
+$ npm install && npm run dev
+```
+
+- Open this URL using web browser
+
+```url
+http://localhost:5173/
+```
